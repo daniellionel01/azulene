@@ -11,5 +11,6 @@ This project has been a long time coming. Lots of projects have influenced my id
 - https://developer.hashicorp.com/terraform
 - https://kubernetes.io/
 - https://github.com/phoenixframework/flame
+- https://trigger.dev/
 - https://fly.io/
 - https://coolify.io/
