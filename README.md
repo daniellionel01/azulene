@@ -19,3 +19,6 @@ This project has been a long time coming. Lots of projects have influenced my id
 - https://trigger.dev/
 - https://fly.io/
 - https://coolify.io/
+- https://alchemy.run/
+- https://github.com/winglang/wing
+- https://darklang.com/
