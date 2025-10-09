@@ -55,3 +55,8 @@
   - https://github.com/winglang/wing
   - https://darklang.com/
   - https://github.com/hunvreus/devpush
+
+- systemd tuis
+  - https://github.com/kainctl/isd
+  - https://github.com/Matheus-git/systemd-manager-tui
+  - https://github.com/rgwood/systemctl-tui
