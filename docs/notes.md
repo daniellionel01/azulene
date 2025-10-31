@@ -31,14 +31,17 @@
   - alerts / notifications (setup via mail & slack)
 
 - existing solutions
+  - https://github.com/jhuckaby/performa/
   - systemd
   - docker / podman
   - docker stack
+  - https://github.com/letsdiscodev/
   - https://n8n.io/
   - https://github.com/psviderski/unregistry
   - https://github.com/psviderski/uncloud
   - https://caprover.com/
   - https://railway.com/
+  - https://www.seenode.com/
   - https://sevalla.com/
   - https://www.porter.run/
   - https://coolify.io/
